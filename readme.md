@@ -3,13 +3,7 @@
 ## Expectations
 - Good Java Knowledge
 
-## Complete Course Link
-- https://www.udemy.com/course/java-interview-questions-and-answers/?couponCode=NOVEMBER-2019
-
 ## Things You Need to Know
-
-###  Github Repository
-https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers
 
 ### PDF Guide
 Available in the resources for the course
@@ -17,7 +11,6 @@ Available in the resources for the course
 ### Installing Eclipse, Java and Maven
 - PDF : https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
 - Video : https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
-- GIT Repository : https://github.com/in28minutes/getting-started-in-5-steps
 
 
 ## Interview Questions
